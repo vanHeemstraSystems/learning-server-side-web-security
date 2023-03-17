@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![Learning-Cloud-Security_Use-Cases](https://user-images.githubusercontent.com/1499433/225680517-e57068d5-9285-4ac6-82d5-146f9ab736f5.png)
+![Learning-Azure-Cloud-Security_Use-Cases](https://user-images.githubusercontent.com/1499433/225855172-059afcc8-46a6-4126-a7ae-686312cbef38.png)
