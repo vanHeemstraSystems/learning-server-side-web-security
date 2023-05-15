@@ -12,6 +12,7 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 | Information Disclosure | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28231601 |
 | Access Control | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233159 |
 | Server-Side Request Forgery | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/26/views/1?layout=board&pane=issue&itemId=28236328 |
+| XXE injection | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/27/views/1?layout=board&pane=issue&itemId=28237870 |
 
 ## Add Images to Pinterest
 
