@@ -11,3 +11,4 @@ Nobody reads the whole game manual before they start playing a video game.
 | Business Logic Vulnerabilities | See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223525 |
 | Information Disclosure | See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28232064 |
 | Access Control | See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233592 |
+| File Upload Vulnerabilities | See on Project Board: "Step 7: Learn enough to get started" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28235412 |
