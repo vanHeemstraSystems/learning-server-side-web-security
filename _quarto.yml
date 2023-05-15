@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning - Azure Cloud Security"
+  title: "Learning - Server-Side Web Security"
   navbar:
     left:
       - href: index.qmd
