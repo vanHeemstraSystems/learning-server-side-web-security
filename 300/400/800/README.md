@@ -4,4 +4,6 @@ Play around and hopefully come up with some questions that you couldn't find ans
 
 See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 
-See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/17/views/1?layout=board&pane=issue&itemId=28203093
+| Theme | Description |
+| --- | --- |
+| SQL Injection | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28213417 |
