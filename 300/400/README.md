@@ -2,7 +2,16 @@
 
 Based on "Planning Your Minimum Viable Product (MVP)" at https://medium.com/@ClrMobile/planning-a-minimum-viable-product-a-step-by-step-guide-6f387d657870
 
-![Learning-Azure-Cloud-Security_User-Stories](https://user-images.githubusercontent.com/1499433/225855844-1549bd95-ebe3-4429-8080-8f784df4dd75.png)
+![Learning-Server-Side-Web-Security-SQL-Injection_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/b9924c47-c0f6-4429-af58-591600a7fa4b)
+![Learning-Server-Side-Web-Security-Authentication_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/3d28a89a-c003-49df-8a4b-c951601f9172)
+![Learning-Server-Side-Web-Security-Directory-Traversal_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/90eae44d-6cb1-4e93-a2c1-4037e0d0736b)
+![Learning-Server-Side-Web-Security-Command-Injection_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/a05be990-6bb1-49ba-ae81-eb82a9a11569)
+![Learning-Server-Side-Web-Security-Business-Logic-Vulnerabilities_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/ca7e70b7-35e9-466f-bebb-7f55a6f5913f)
+![Learning-Server-Side-Web-Security-Information-Disclosure_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/ae93bc03-4845-4d4b-9500-a20d18510ff6)
+![Learning-Server-Side-Web-Security-Access-Control_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/54d8e986-62be-4366-ae76-0be061e02cad)
+![Learning-Server-Side-Web-Security-File-Upload-Vulnerabilities_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/0986ca8d-95a7-4506-b02d-1c5daf60df28)
+![Learning-Server-Side-Web-Security-Server-Side-Request-Forgery_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/3ee47dac-339f-4680-b53f-7d1b834bcd17)
+![Learning-Server-Side-Web-Security-XXE-Injection_User-Stories](https://github.com/vanHeemstraSystems/learning-server-side-web-security/assets/1499433/8eed08ed-e9c5-4584-9347-55c04042850d)
 
 **Planning Your Minimum Viable Product (MVP)**
 
