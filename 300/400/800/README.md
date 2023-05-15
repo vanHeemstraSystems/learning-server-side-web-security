@@ -9,3 +9,4 @@ See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 | SQL Injection | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28213417 |
 | Authentication | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214784 |
 | Directory Traversal | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/20/views/1?layout=board&pane=issue&itemId=28216054 |
+| Command Injection | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28220831 |
