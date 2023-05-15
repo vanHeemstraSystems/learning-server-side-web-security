@@ -11,3 +11,4 @@ Go back and do more verbal, analytic learning. Now is the time to answer those q
 | Business Logic Vulnerabilities | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223806 |
 | Information Disclosure | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28232252 |
 | Access Control | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233762 |
+| File Upload Vulnerabilities | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28235620 |
