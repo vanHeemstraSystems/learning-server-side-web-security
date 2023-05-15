@@ -9,34 +9,34 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 
 ## Add Images to Pinterest
 
-Use **Boards** to categorize these (e.g., ```Azure Active Directory```).
+Use **Boards** to categorize these (e.g., ```SQL Injection```).
 
 See https://pinterest.com
 
 ## Add URLs to Pocket.io
 
-Use Tags to categorize these (e.g., ```Azure Active Directory```).
+Use Tags to categorize these (e.g., ```SQL Injection```).
 
 See https://getpocket.com
 
 ## Add Media to Envato
 
-Use **Favourites** to list these (e.g., ```Azure Active Directory```).
+Use **Favourites** to list these (e.g., ```SQL Injection```).
 
 See https://envato.com
 
 ## Add Documents to ...
 
-Use **Tags** to categorize these (e.g., ```Cheatsheets on Azure Active Directory```).
+Use **Tags** to categorize these (e.g., ```Cheatsheets on SQL Injection```).
 
 ## Link Tutorials to ...
 
-Use **Tags** to categorize these (e.g., ```Azure Active Directory```).
+Use **Tags** to categorize these (e.g., ```SQL Injection```).
 
 See https://youtube.com
 
 ## Link Courses to ...
 
-Use **Tags** to categorize these (e.g., ```Azure Active Directory```).
+Use **Tags** to categorize these (e.g., ```SQL Injection```).
 
 See https://linuxacademy.com
