@@ -13,3 +13,4 @@ Use what you learned in the previous steps to make a plan.
 | Access Control | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233378 |
 | File Upload Vulnerabilities | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28235207 |
 | Server-Side Request Forgery | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/26/views/1?layout=board&pane=issue&itemId=28236556 |
+| XXE Injection | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/27/views/1?layout=board&pane=issue&itemId=28238054 |
