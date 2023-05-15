@@ -8,3 +8,4 @@ Use what you learned in the previous steps to make a plan.
 | Authentication | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214486 |
 | Directory Traversal | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/20/views/1?layout=board&pane=issue&itemId=28215809 |
 | Command Injection | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28220541 |
+| Business Logic Vulnerabilities | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223315 |
