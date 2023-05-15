@@ -5,3 +5,4 @@ Go back and do more verbal, analytic learning. Now is the time to answer those q
 | Theme | Description |
 | --- | --- |
 | SQL Injection | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28213481 |
+| Authentication | See on Project Board: "Step 9: Learn enough to do something useful" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214864 |
