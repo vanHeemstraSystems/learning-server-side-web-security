@@ -8,3 +8,4 @@ Make a clear goal for your learning so you'll know when you get there.
 | Authentication | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214169 |
 | Directory Traversal | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/20/views/1?layout=board&pane=issue&itemId=28215603 |
 | Command Injection | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28220337 |
+| Business Logic Vulnerabilities | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28222978 |
