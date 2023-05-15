@@ -2,4 +2,6 @@
 
 With your plan in mind, narrow down your resource list (Step 4) to the most important essentials.
 
-See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/17/views/1?layout=board&pane=issue&itemId=28202947
+| Theme | Description |
+| --- | --- |
+| SQL Injection | See on Project Board: "Step 6: Filter Resources" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28213093 |
