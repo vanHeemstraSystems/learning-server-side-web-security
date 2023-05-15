@@ -10,3 +10,4 @@ Scan articles, table of contents, Wikipedia pages, etc. to get an idea of what t
 | Command Injection | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28216524 |
 | Business Logic Vulnerabilities | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28222518 |
 | Information Disclosure | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28224363 |
+| Access Control | See on Project Board: "Step 1: Get the Big Picture" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28232792 |
