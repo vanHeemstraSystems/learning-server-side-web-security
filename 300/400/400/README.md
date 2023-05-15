@@ -5,7 +5,7 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 | Theme | Description |
 | --- | --- |
 | SQL Injection | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28212882 |
-| Authetnication | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214269 |
+| Authentication | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214269 |
 
 ## Add Images to Pinterest
 
