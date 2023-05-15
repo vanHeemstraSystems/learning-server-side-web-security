@@ -9,6 +9,7 @@ Gather resources from the Internet, libraries, forums, etc. that might be useful
 | Directory Traversal | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/20/views/1?layout=board&pane=issue&itemId=28215693 |
 | Command Injection | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28220423 |
 | Business Logic Vulnerabilities | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223101 |
+| Information Disclosure | See on Project Board: "Step 4: Find Resources" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28231601 |
 
 ## Add Images to Pinterest
 
