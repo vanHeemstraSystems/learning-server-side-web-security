@@ -13,3 +13,4 @@ Make a clear goal for your learning so you'll know when you get there.
 | Access Control | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233045 |
 | File Upload Vulnerabilities | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28234921 |
 | Server-Side Request Forgery | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/26/views/1?layout=board&pane=issue&itemId=28236230 |
+| XXE Injection | See on Project Board: "Step 3: Define Success" at https://github.com/orgs/vanHeemstraSystems/projects/27/views/1?layout=board&pane=issue&itemId=28237766 |
