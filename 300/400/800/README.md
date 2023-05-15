@@ -12,3 +12,4 @@ See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 | Command Injection | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/21/views/1?layout=board&pane=issue&itemId=28220831 |
 | Business Logic Vulnerabilities | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223645 |
 | Information Disclosure | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28232164 |
+| Access Control | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233688 |
