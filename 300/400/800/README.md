@@ -14,3 +14,4 @@ See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 | Information Disclosure | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28232164 |
 | Access Control | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233688 |
 | File Upload Vulnerabilities | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28235499 |
+| Server-Side Request Forgery | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/26/views/1?layout=board&pane=issue&itemId=28236854 |
