@@ -11,3 +11,4 @@ Use what you learned in the previous steps to make a plan.
 | Business Logic Vulnerabilities | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/22/views/1?layout=board&pane=issue&itemId=28223315 |
 | Information Disclosure | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28231857 |
 | Access Control | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28233378 |
+| File Upload Vulnerabilities | See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28235207 |
