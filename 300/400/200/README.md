@@ -7,3 +7,4 @@ We'll go for "SQL Injection", and "Authentication" respectively.
 | Theme | Description |
 | --- | --- |
 | SQL Injection | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28212623 |
+| Authentication | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214055 |
