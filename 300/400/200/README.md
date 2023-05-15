@@ -14,3 +14,4 @@ We'll go for "SQL Injection", "Authentication", ... respectively.
 | Information Disclosure | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/23/views/1?layout=board&pane=issue&itemId=28231372 |
 | Access Control | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/24/views/1?layout=board&pane=issue&itemId=28232950 |
 | File Upload Vulnerabilities | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/25/views/1?layout=board&pane=issue&itemId=28234754 |
+| Server-Side Request Forgery | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/26/views/1?layout=board&pane=issue&itemId=28236103 |
