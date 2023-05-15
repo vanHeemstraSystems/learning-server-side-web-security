@@ -7,3 +7,4 @@ See "Self-Education" at https://github.com/vanHeemstraSystems/self-education
 | Theme | Description |
 | --- | --- |
 | SQL Injection | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/18/views/1?layout=board&pane=issue&itemId=28213417 |
+| Authentication | See on Project Board: "Step 8: Play around" at https://github.com/orgs/vanHeemstraSystems/projects/19/views/1?layout=board&pane=issue&itemId=28214784 |
